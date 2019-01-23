@@ -16,5 +16,5 @@ def parseFeed():
     n.set_timeout(15000)
     time.sleep(1200)
 
-if name is 'main':
+if _name+_ is '_main_':
     parseFeed()
